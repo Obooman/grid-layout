@@ -1,0 +1,27 @@
+{
+  "name": "grid-layout",
+  "version": "0.0.1",
+  "description": "a super lite lib for create flex layout with given css properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/Obooman/grid-layout.git",
+    "type": "git"
+  },
+  "keywords": [
+    "grid",
+    "css",
+    "layout",
+    "flex",
+    "flexbox",
+    "mobile"
+  ],
+  "author": "oboo chin <cheng.12@live.cn> (github.com/obooman)",
+  "bugs": {
+    "url": "https://github.com/Obooman/grid-layout/issues"
+  },
+  "homepage": "https://github.com/Obooman/grid-layout#readme",
+  "license": "MIT"
+}
