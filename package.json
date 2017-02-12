@@ -23,5 +23,9 @@
     "url": "https://github.com/Obooman/grid-layout/issues"
   },
   "homepage": "https://github.com/Obooman/grid-layout#readme",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.2"
+  }
 }
